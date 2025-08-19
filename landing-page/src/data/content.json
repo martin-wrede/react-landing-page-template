@@ -1,0 +1,75 @@
+{
+  "header": {
+    "logoUrl": "./logo.svg",
+    "cta": {
+      "text": "Jetzt starten",
+      "link": "#cta"
+    }
+  },
+  "hero": {
+    "headline": "Erstellen Sie Ihre Traum-Webseite in unter 10 Minuten.",
+    "subheadline": "Go from design to site with Framer, the web builder for creative pros. Ganz ohne Code.",
+    "cta": {
+      "text": "Kostenlos testen",
+      "link": "#cta"
+    },
+    "imageUrl": "https://via.placeholder.com/600x400.png?text=Produkt+in+Aktion"
+  },
+  "credentials": {
+    "title": "Vertraut von führenden Unternehmen",
+    "logos": [
+      { "name": "Logo 1", "url": "https://via.placeholder.com/150x50.png?text=Kunde+A" },
+      { "name": "Logo 2", "url": "https://via.placeholder.com/150x50.png?text=Kunde+B" },
+      { "name": "Logo 3", "url": "https://via.placeholder.com/150x50.png?text=Kunde+C" },
+      { "name": "Logo 4", "url": "https://via.placeholder.com/150x50.png?text=Kunde+D" }
+    ]
+  },
+  "features": {
+    "title": "Warum Sie uns lieben werden",
+    "items": [
+      {
+        "title": "Fast",
+        "description": "You've never made a website this fast before. Mit unserer optimierten Plattform ist Ihre Seite in Sekunden online.",
+        "imageUrl": "https://via.placeholder.com/400x300.png?text=Feature+1"
+      },
+      {
+        "title": "Easy",
+        "description": "Works like the canvas tools you're familiar with. Der Drag-and-Drop-Editor macht die Gestaltung zum Kinderspiel.",
+        "imageUrl": "https://via.placeholder.com/400x300.png?text=Feature+2"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen (FAQ)",
+    "items": [
+      {
+        "question": "Was ist in der kostenlosen Version enthalten?",
+        "answer": "Unsere kostenlose Version beinhaltet alle grundlegenden Features, um eine voll funktionsfähige Webseite zu erstellen und zu veröffentlichen."
+      },
+      {
+        "question": "Kann ich jederzeit upgraden?",
+        "answer": "Ja, Sie können Ihren Plan jederzeit direkt in Ihrem Dashboard mit nur wenigen Klicks anpassen."
+      },
+      {
+        "question": "Brauche ich technische Kenntnisse?",
+        "answer": "Nein, absolut nicht. Unsere Plattform ist darauf ausgelegt, dass jeder ohne Programmierkenntnisse professionelle Webseiten erstellen kann."
+      }
+    ]
+  },
+  "ctaSection": {
+    "headline": "Sign up today.",
+    "cta": {
+      "text": "Jetzt kostenlos registrieren",
+      "link": "#",
+      "subtext": "Keine Kreditkarte erforderlich."
+    }
+  },
+  "footer": {
+    "copyright": "© 2023 Your Company. Alle Rechte vorbehalten.",
+    "links": [
+      { "text": "Impressum", "link": "#" },
+      { "text": "Datenschutz", "link": "#" },
+      { "text": "Kontakt", "link": "#" }
+    ]
+  }
+}
