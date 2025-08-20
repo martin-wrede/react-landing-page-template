@@ -1,5 +1,5 @@
 {
-  "homepage": "https://DEIN-GITHUB-USERNAME.github.io/DEIN-REPO-NAME",
+  "homepage": "https://martin-wrede.github.io/react-landing-page-template",
   "name": "landing-page",
   "private": true,
   "version": "0.0.0",
@@ -14,7 +14,6 @@
   "start": "react-scripts start",
   "test": "react-scripts test",
   "eject": "react-scripts eject"
-
   },
   "dependencies": {
     "react": "^19.1.1",
